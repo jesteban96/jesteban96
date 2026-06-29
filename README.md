@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Juan Esteban Fajardo Ruiz
 
-<!--
-**jesteban96/jesteban96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Engineer from Colombia 🇨🇴
 
-Here are some ideas to get you started:
+I enjoy building scalable web and mobile applications focused on solving real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- React
+- React Native
+- Python
+- FastAPI
+- Node.js
+- PostgreSQL
+- SQL Server
+- Firebase
+- Docker
+- Git
+
+## Featured Projects
+
+📱 Reminder Mobile App
+
+🏢 Enterprise Management Systems
+
+⚡ API Integrations
+
+📊 Process Automation
+
+## Contact
+
+📧 jestebanfajardo69@gmail.com
+
+💼 LinkedIn
+
+🌎 Portfolio
